@@ -1,0 +1,13 @@
+1.  https://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
+2.  https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9
+3.  https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52
+4.  https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+5.  https://www.youtube.com/watch?v=bD05uGo_sVI
+6.  https://arxiv.org/pdf/1511.07289v1.pdf
+7.  http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization
+8.  https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/
+9.  https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d
+10.  http://cs231n.github.io/neural-networks-3/#ada
+11.  https://www.youtube.com/watch?v=JXQT_vxqwIs
+12.  https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
+
